@@ -1,7 +1,7 @@
 {
   "name": "blear.polyfills.event",
   "version": "1.0.0",
-  "description": "blear.polyfills.event description",
+  "description": "event polyfills to IE8",
   "scripts": {},
   "preferGlobal": false,
   "bin": {},
@@ -11,6 +11,9 @@
   },
   "main": "src/index.js",
   "keywords": [
+    "blear",
+    "polyfills",
+    "event",
     "cloudcome",
     "ydr.me"
   ],
