@@ -57,5 +57,5 @@ if (typeof CLASSICAL !== 'undefined' && CLASSICAL === true) {
 
             return event;
         };
-    })(Window.prototype, HTMLDocument.prototype, Element.prototype, "addEventListener", "removeEventListener", "dispatchEvent", []);
+    })(window, HTMLDocument.prototype, Element.prototype, "addEventListener", "removeEventListener", "dispatchEvent", []);
 }
