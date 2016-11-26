@@ -1,7 +1,7 @@
 {
   "name": "blear.polyfills.event",
-  "version": "1.0.2",
-  "description": "event polyfills to IE8",
+  "version": "1.0.3",
+  "description": "event polyfills to IE9",
   "scripts": {},
   "preferGlobal": false,
   "bin": {},
